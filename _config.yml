@@ -72,5 +72,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: hexo@104.224.187.22:repo.git
+  repo: hexo@104.224.187.22:hexo.git
   branch: master
